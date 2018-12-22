@@ -1,0 +1,15 @@
+{
+  "name": "kuscatur/cuaca",
+  "version": "0.0.0",
+  "description": "Lyifahmi/tugas_2_cuaca @ Dec 20, 2018",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^27.0.0",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-27.0.0.tar.gz",
+    "moment": "^2.22.2",
+    "string-manager": "^2.0.0"
+  }
+}
